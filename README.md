@@ -1,4 +1,7 @@
 # hi! i'm richit! 
+- a fellow hackclubber from `Jammu/India`
+- i love Node.js cause why not?
+- frontend is not what i usually prefer ( css kills me )
 
 ## Check out my coding history
 <!--START_SECTION:waka-->
