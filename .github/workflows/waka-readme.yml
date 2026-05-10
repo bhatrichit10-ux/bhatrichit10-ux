@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN  }} 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
-          
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
