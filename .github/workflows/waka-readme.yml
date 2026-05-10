@@ -6,7 +6,8 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-
+env:
+  ACTIONS_STEP_DEBUG: true
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -17,3 +18,4 @@ jobs:
           GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN  }} 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: ${{ secrets.API_BASE_URL }}
+    
