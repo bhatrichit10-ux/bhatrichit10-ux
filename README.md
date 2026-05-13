@@ -1,6 +1,6 @@
 # hi! i'm richit! 
 - a fellow hackclubber from `Jammu/India`
-- Building things — `hardware`, `software`, and whatever falls in between. 
+- Building things - `hardware`, `software`, and whatever falls in between. 
 - Curious about how stuff `works` and obsessed with making it work better. 
 - Currently leading `DebugCrew`, and shipping open-source projects 
 
