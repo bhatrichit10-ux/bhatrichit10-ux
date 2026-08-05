@@ -2,7 +2,7 @@
 - a fellow hackclubber from `Jammu/India`
 - Building things - `hardware`, `software`, and whatever falls in between. 
 - Curious about how stuff `works` and obsessed with making it work better. 
-- Currently leading `DebugCrew`, and shipping open-source projects 
+- Lead `DebugCrew` for a short time with 13+ ships, and shipping open-source projects 
 
 ### Check out my coding history
 <!--START_SECTION:waka-->
